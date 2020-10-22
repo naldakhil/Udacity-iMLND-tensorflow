@@ -1,4 +1,5 @@
-# Intro to Machine Learning with TensorFlow Nanodegree
+# Intro to Machine Learning with TensorFlow 
+Udacity Nanodegree
 # Supervised Learning
 ## Project 1: Finding Donors for CharityML
 
