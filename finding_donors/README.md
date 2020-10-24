@@ -1,6 +1,7 @@
-# Data Scientist Nanodegree
+# Intro to Machine Learning with TensorFlow 
+Udacity Nanodegree
 # Supervised Learning
-## Project: Finding Donors for CharityML
+## Project 1: Finding Donors for CharityML
 
 ### Install
 
